@@ -72,17 +72,20 @@ COVID19-Data-Analysis/
    - Time-series analysis: case spikes and mortality trends.  
 
 4. **Visualization**  
-   - Line plots for time-series progression.  
-   - Bar charts for top-affected countries.  
-   - Heatmaps for continent-level analysis.  
+   - Distribution plots for gdp per capita continent wise density.  
+   - Bar charts for top-affected continents with respect to total death cases.  
+   - joint plots for continent-level analysis.  
 
 ---
 
+
 ## 📈 Results & Insights
-- Global spikes in cases aligned with major pandemic waves.  
-- Mortality trends varied by continent, with some showing significantly higher fatality rates.  
-- Rolling averages highlighted the **second and third waves** of COVID-19 spread.  
-- Processed dataset enabled clearer comparisons between countries and regions.  
+- Mortality trends varied across continents, with Europe and South America showing higher fatality ratios.
+- The US, India, and Brazil consistently ranked among the top affected countries.
+- Rolling averages highlighted the second and third waves more clearly than raw daily data.
+- Fatality rates generally declined over time, reflecting better treatment and vaccination effects.
+- Processed dataset enabled cleaner continent-wise and country-level comparisons.
+  
 
 ---
 
