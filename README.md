@@ -93,8 +93,15 @@ COVID19-Data-Analysis/
 
 ---
 
-## 🚀 How to Run
-1. Clone the repository:  
+## 🚀 How to Run 
    ```bash
    git clone https://github.com/<digvijay2420>/COVID19-Data-Analysis.git
    cd COVID19-Data-Analysis
+   pip install -r requirements.txt
+   jupyter notebook notebook/"Covid - 19_Data_Analysis.ipynb"
+   ```
+---
+
+## 📝 Author
+- **Digvijay Singh**  
+*(Capstone Project, July 2025)*
